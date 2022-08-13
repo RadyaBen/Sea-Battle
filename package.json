@@ -2,7 +2,7 @@
 	"name": "sea-battle",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://radyaben.github.io/Sea_Battle",
+	"homepage": "https://radyaben.github.io/Sea-Battle",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
 		"@testing-library/react": "^13.2.0",
